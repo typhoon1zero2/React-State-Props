@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header() {
   return (
-    <div className='employee-directory'>Employee Directory</div>
+    <h4 className='employee-directory'>Employee Directory</h4>
   )
 }
 

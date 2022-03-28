@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-
+### image
+<img src="public/diagram.png">
 
 ## Available Scripts
 
