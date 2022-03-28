@@ -7,7 +7,7 @@
 ### Screenshot
 1. Build only the left hand side of the above Diagram
 2. You should create an APP, Homepage, Header, Search Bar, EmployeeList and Employee List Item
-<im src="public/Screenshot.png">
+<img src="public/Screenshot.png">
 
 
 ## Available Scripts
