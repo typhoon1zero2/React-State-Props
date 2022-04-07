@@ -1,0 +1,14 @@
+function Show(props) {
+
+
+
+    return (
+      <div className="homepage">
+              <h1>{props.name}</h1>
+              <h1>{props.title}</h1>
+              <h1>{props.img}</h1>
+          </div>
+    )
+    }
+  
+  export default Show;
