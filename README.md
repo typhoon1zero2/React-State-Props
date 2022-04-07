@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+# [Netlify Live Link](https://deft-manatee-28d51b.netlify.app/)
 
 ### Using your knowledge of State and Props
 <img src="public/diagram.png">
